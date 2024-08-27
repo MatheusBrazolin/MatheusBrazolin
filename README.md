@@ -1,7 +1,7 @@
 Olá eu sou o Matheus Brazolin ✌🏼
 
 - 📚 Graduado em Analise e Desenvolvimento de Sistemas
-- ⭐Pronouns: (Ele/Dele)
+- ⭐Pronomes: (Ele/Dele)
 
 <div>
   <a href="https://github.com/MatheusBrazolin">
