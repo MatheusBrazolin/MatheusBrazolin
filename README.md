@@ -8,19 +8,6 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MatheusBrazolin&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBrazolin&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-  />
-</p>
-
----
-
 <h3 align="center">🛠 Technologies & Languages</h3>
 
 <p align="center">
