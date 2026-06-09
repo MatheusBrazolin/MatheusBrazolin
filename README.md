@@ -35,9 +35,9 @@ Desenvolvimento de aplicações, automações e sistemas escaláveis com foco em
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MatheusBrazolin&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MatheusBrazolin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBrazolin&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBrazolin&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
