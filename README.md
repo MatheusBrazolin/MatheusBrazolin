@@ -1,88 +1,22 @@
-<div align="center">
+### Olá, eu sou o Matheus 👋
 
-# Matheus Brazolin
+Desenvolvedor Full Stack com foco em back-end e engenharia de dados.
 
-Software Engineer • Back-end • Data Engineering • Automation
+**Linguagens**
 
-Desenvolvimento de aplicações, automações e sistemas escaláveis com foco em performance, organização e boas práticas de engenharia de software.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-<br>
+**Ferramentas**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheus-brazolin-70b57322b/)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MatheusBrazolin)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-</div>
-
----
-
-# Tecnologias
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge\&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux)
-
-</div>
-
----
-
-# Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MatheusBrazolin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBrazolin&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# Sobre mim
-
-* Focado em desenvolvimento Back-end
-* Interesse em arquitetura de sistemas e performance
-* Experiência com automações e integração de APIs
-* Estudando engenharia de software e escalabilidade
-* Construindo projetos próprios para portfólio
-
----
-
-# Projetos em destaque
-
-## Sistema de análise financeira
-
-Plataforma voltada para processamento e análise de dados financeiros com armazenamento local, consultas otimizadas e suporte para múltiplas integrações.
-
-**Tecnologias utilizadas**
-
-* Python
-* PostgreSQL
-* Redis
-* Docker
-
----
-
-## Automações e ferramentas internas
-
-Scripts e ferramentas voltadas para automação de tarefas, produtividade e integração entre sistemas.
-
-**Tecnologias utilizadas**
-
-* Python
-* APIs REST
-* Git
-* JavaScript
-
----
-
-# Contato
-
-📩 Entre em contato pelo LinkedIn para networking ou oportunidades profissionais.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheus-brazolin-70b57322b/)
+[Portfólio](https://matheus-brazolin-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/matheus-brazolin-70b57322b/)
