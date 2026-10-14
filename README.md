@@ -19,4 +19,5 @@ Desenvolvedor Full Stack com foco em back-end e engenharia de dados.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-[Portfólio](https://matheus-brazolin-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/matheus-brazolin-70b57322b/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://matheus-brazolin-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-brazolin-70b57322b/)
