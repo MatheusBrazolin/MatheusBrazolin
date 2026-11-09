@@ -19,7 +19,7 @@ Desenvolvedor de software no mercado financeiro (RCO Tecnologia / OTM Invest). N
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas · Pós-graduação em Full Stack Development na **FIAP** (em andamento)
 - 💼 Antes da tecnologia: quase 4 anos na Porto (seguros), com dados, indicadores e regras de negócio
-- 🌎 Inglês avançado · aberto a oportunidades júnior, trainee e estágio (presencial, híbrido ou remoto)
+- 🌎 Inglês avançado
 
 ---
 
@@ -78,4 +78,4 @@ Desenvolvedor de software no mercado financeiro (RCO Tecnologia / OTM Invest). N
 
 ---
 
-<p align="center"><sub>Sempre aprendendo e construindo. Vamos conversar? 🙂</sub></p>
+<p align="center"><sub>Sempre aprendendo e construindo.</sub></p>
